@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-router-vending-machine/static/css/main.11512e69.css",
+    "main.js": "/react-router-vending-machine/static/js/main.9bb0ede3.js",
+    "static/js/787.3cd04510.chunk.js": "/react-router-vending-machine/static/js/787.3cd04510.chunk.js",
+    "static/media/vendingmachine.png": "/react-router-vending-machine/static/media/vendingmachine.7b82605f83e25a2a7d4b.png",
+    "static/media/chip.png": "/react-router-vending-machine/static/media/chip.ac867f31ad75e58574c7.png",
+    "static/media/soda.png": "/react-router-vending-machine/static/media/soda.bd9f9cc7683cbabc4816.png",
+    "static/media/logo.svg": "/react-router-vending-machine/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-router-vending-machine/index.html",
+    "main.11512e69.css.map": "/react-router-vending-machine/static/css/main.11512e69.css.map",
+    "main.9bb0ede3.js.map": "/react-router-vending-machine/static/js/main.9bb0ede3.js.map",
+    "787.3cd04510.chunk.js.map": "/react-router-vending-machine/static/js/787.3cd04510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11512e69.css",
+    "static/js/main.9bb0ede3.js"
+  ]
+}
